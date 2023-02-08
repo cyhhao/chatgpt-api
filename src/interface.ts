@@ -1,4 +1,4 @@
-import { ChatGPTAPIBrowser } from "chatgpt";
+import { ChatGPTAPIBrowser } from "./chatgpt-api/src/index";
 export interface AccountWithUserInfo {
   password: string;
   email: string;

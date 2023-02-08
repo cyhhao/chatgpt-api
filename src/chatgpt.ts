@@ -1,4 +1,4 @@
-import { ChatGPTAPI, ChatGPTAPIBrowser } from "chatgpt"
+import { ChatGPTAPI, ChatGPTAPIBrowser } from "./chatgpt-api/src/index"
 
 import { config } from "./config.js"
 import AsyncRetry from "async-retry"
